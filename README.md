@@ -30,7 +30,7 @@ Transport management system helps in solving transport management issues includi
 
 -Template1.html: refers to the home page in which user should insert the algorithm that he wants to apply. 
 
--Template2.html, VNS.html: refer to vns visualization 
+-Template2.html, VNS.html: refers to vns visualization 
 
 -map.html : refers to generating a google map using the library : gmplot 
 
@@ -43,5 +43,5 @@ Transport management system helps in solving transport management issues includi
 ( the matrix of distances : distances_villes.xlsx, coordinates(logitude, latitude): tms.xlsx)
 
 
---special dedicate: this project would not be realized without the collaboration of : Ouissal TAIM, Fatiha EL MAGUI , and Ilham ESSOUSSY.
+--special dedication: this project would not be realized without the collaboration of : Ouissal TAIM, Fatiha EL MAGUI , and Ilham ESSOUSSY.
 --
