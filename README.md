@@ -1,5 +1,5 @@
 # Transport-management-system-VRP-TSP-Optimization
-Transport management system helps in solving transport management issues including traceability, cost efficiency , time saving and routes optimization. The software is based on algorithms and metaheuristic that ensure optimal solutions and minimal costs. The project consists of to parts: development of algorithms using python and creating a web interface using Flask, Html, CSS, Bootstrap and Javascript. 
+Transport management system helps in solving transport management issues including traceability, cost efficiency , time saving and routes optimization. The software is based on algorithms and metaheuristic that ensure optimal solutions and minimal costs. The project consists of two parts: development of algorithms using python and creating a web interface using Flask, Html, CSS, Bootstrap and Javascript. 
 
 
 *Vns.py: refers to the metaheurstic variable neighborhood search developped with Python oriented object in which we use :
